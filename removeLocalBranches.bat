@@ -1,0 +1,1 @@
+git branch --no-merged | xargs git branch -D
