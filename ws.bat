@@ -1,3 +1,3 @@
 @echo off
-c:
+d:
 cd \ws
