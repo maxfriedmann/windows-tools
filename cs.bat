@@ -1,3 +1,3 @@
 @echo off
 c:
-cd \ws
+cd \ws\cloud
