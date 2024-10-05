@@ -1,3 +1,3 @@
 @echo off
-c:
-cd \ws\cloud
+d:
+cd \ws\cloud-github
