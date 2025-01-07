@@ -1,1 +1,1 @@
-git branch --merged master --no-color | grep -v master | xargs git branch -d
+git branch --merged main --no-color | grep -v main | xargs git branch -d

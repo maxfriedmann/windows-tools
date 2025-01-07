@@ -1,1 +1,1 @@
-git branch --merged master | xargs git branch -D
+git branch --merged main | xargs git branch -D
